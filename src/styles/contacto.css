@@ -1,0 +1,77 @@
+.contacto {
+    display: flex;
+
+}
+
+.contacto div {
+    width: 100%;
+    gap: 25px;
+    padding: 20px;
+
+}
+
+.datos p {
+    font-size: 14px;
+
+}
+
+.datos ul li {
+    font-size: 13px;
+
+}
+
+.formulario p {
+
+    /* display: flex; hace q el label este sobre el imput */
+}
+
+.formulario p input {
+    /* background-color: yellow; */
+}
+
+.formulario p label {
+    min-width: 100px;
+    /* background-color: yellow; */
+    display: flex;
+    align-items: center;
+}
+
+.formulario p input,
+.formulario p textarea {
+
+    width: 100%;
+    background-color: #ccc;
+    border: 1px solid #35176e;
+    border-radius: 5px;
+    padding: 6px;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+
+
+.formulario p textarea {
+    resize: none;
+    height: 150px;
+}
+
+.formulario p:nth-child(4) {
+
+    align-items: start;
+}
+
+.formulario input[type="submit"] {
+    background-color: #6da9ed;
+
+    width: 80px;
+    padding: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    color: white;
+    cursor: pointer;
+    position: relative;
+    left: 400px;
+}
+
+.formulario input [type="submit"]:hover {
+    background-color: #0a6b4e;
+}
