@@ -22,7 +22,8 @@ const ServiciosPage = (props) => {
         </div>
 
         <div className="servicio">
-        <img src="img/servicios/maritimo.jpg" alt=""/>
+       
+       
             <div className="info">
 
                 <h4>Transporte Marítimo</h4>
@@ -34,7 +35,7 @@ const ServiciosPage = (props) => {
                     adipisci quae eveniet possimus voluptatibus, obcaecati enim! Itaque aut nemo illo distinctio neque
                     dolore quisquam.</p>
             </div>
-            
+            <img src="img/servicios/maritimo.jpg" alt=""/>
         </div>
         <div className="servicio">
             <img src="img/servicios/ferroviario.jpg" alt=""/>
@@ -51,7 +52,7 @@ const ServiciosPage = (props) => {
             </div>
         </div>
         <div className="servicio">
-        <img src="img/servicios/terrestre.jpg" alt=""/>
+        
             <div className="info">
 
                 <h4>Transporte Terrestre</h4>
@@ -63,7 +64,7 @@ const ServiciosPage = (props) => {
                     adipisci quae eveniet possimus voluptatibus, obcaecati enim! Itaque aut nemo illo distinctio neque
                     dolore quisquam.</p>
             </div>
-           
+            <img src="img/servicios/terrestre.jpg" alt=""/>
         </div>
 
 

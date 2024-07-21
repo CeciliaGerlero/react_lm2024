@@ -61,14 +61,14 @@
 }
 
 .formulario input[type="submit"] {
-    background-color: #6da9ed;
+    background-color: #6da9ed   ;
 
     width: 80px;
     padding: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
     color: white;
     cursor: pointer;
-    position: relative;
+    position:initial;
     left: 400px;
 }
 

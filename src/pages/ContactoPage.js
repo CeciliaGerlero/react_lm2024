@@ -43,7 +43,7 @@ const ContactoPage = (props) => {
                     <li><a href=""><i class="fa-solid fa-location-dot"></i></a>  San Martín 1466 - Santa Fe</li>
                 </ul>
                 <div className="mapa">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3397.738113856049!2d-60.67965812682639!3d-31.613635048710375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95b5a9f89d965a95%3A0xe75d07537517e4eb!2sAntonia%20Godoy%206384%2C%20S3004%20IWJ%2C%20Santa%20Fe!5e0!3m2!1ses!2sar!4v1721568137258!5m2!1ses!2sar" style={{border:0}}></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3397.738113856049!2d-60.67965812682639!3d-31.613635048710375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95b5a9f89d965a95%3A0xe75d07537517e4eb!2sAntonia%20Godoy%206384%2C%20S3004%20IWJ%2C%20Santa%20Fe!5e0!3m2!1ses!2sar!4v1721568137258!5m2!1ses!2sar" style={{border:0, width:500, height:300}}></iframe>
                 </div>
             </div>
         </main>
